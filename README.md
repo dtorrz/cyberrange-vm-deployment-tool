@@ -32,10 +32,14 @@ Right-click on your desktop and select **New** > **Shortcut**.
 ### 2. Configure the Path
 In the location box, paste the following command:
 
-`powershell.exe -NoExit -ExecutionPolicy Bypass -File "C:\Users\labadmin\Desktop\VMcreator-v2.ps1"`  
+`powershell.exe -NoExit -ExecutionPolicy Bypass -File "C:\Users\labuser\Desktop\VMcreator-v2.ps1"`  
 NOTE: Change the location to where you have the script saved
-* **Name it:** `VMCreator`  
-<img width="324" height="284" alt="image" src="https://github.com/user-attachments/assets/fc5ec1ef-9461-46a2-a749-763e3f68a59b" /><br>   
+* **Name it:** `VMCreator`
+* Right click on the shortcut, and click "Run with PowerShell"
+<img width="324" height="284" alt="image" src="https://github.com/user-attachments/assets/fc5ec1ef-9461-46a2-a749-763e3f68a59b" /><br>
+
+
+  
 * **Finish!**
 
 ---
