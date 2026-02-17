@@ -23,7 +23,8 @@ Once that's done, it'll create the VM and once done, let you know with the total
 <br>  
 
 ## 📖 Setup Guide
-
+### 0. Get the script    
+Download the VMCreator-v2.ps1 script to your Desktop (or folder of preference)  
 ### 1. Create the Desktop Shortcut
 Right-click on your desktop and select **New** > **Shortcut**.
 
@@ -34,10 +35,10 @@ In the location box, paste the following command:
 
 `powershell.exe -NoExit -ExecutionPolicy Bypass -File "C:\Users\labuser\Desktop\VMcreator-v2.ps1"`  
 NOTE: Change the location to where you have the script saved
-* **Name it:** `VMCreator`
-* Right click on the shortcut, and click "Run with PowerShell"
-<img width="324" height="284" alt="image" src="https://github.com/user-attachments/assets/fc5ec1ef-9461-46a2-a749-763e3f68a59b" /><br>
-
+* **Name it:** `VMCreator`  
+  
+* Launch our new shortcut  
+  <img width="155" height="109" alt="image" src="https://github.com/user-attachments/assets/c3fff930-9d79-42bd-a997-5738d03d7344" />  
 
   
 * **Finish!**
