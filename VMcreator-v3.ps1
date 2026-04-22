@@ -1,5 +1,5 @@
 # ===============================================================
-# Azure VM Provisioning Tool (Cyber Range - Master Version) v.2.0
+# Azure VM Provisioning Tool (Cyber Range - Master Version) v.3.0
 # ===============================================================
 
 Clear-Host
