@@ -24,7 +24,7 @@ Once that's done, it'll create the VM and once done, let you know with the total
 
 ## 📖 Setup Guide
 ### 0. Get the script    
-Download the VMCreator-v2.ps1 script to your Desktop (or folder of preference)  
+Download the VMCreator-v3.ps1 script to your Desktop (or folder of preference)  
 ### 1. Create the Desktop Shortcut
 Right-click on your desktop and select **New** > **Shortcut**.
 
