@@ -1,3 +1,4 @@
+
 # 🚀 CyberRange VM Deployment Tool
 
 This tool standardizes VM deployment, enforces quotas, and automates networking for Azure virtual machines.
@@ -12,8 +13,7 @@ This tool standardizes VM deployment, enforces quotas, and automates networking 
 * **🛰️ Smart-Wait:** Probes VM ports every 10 seconds and only offers to connect when the OS is fully "listening."
 
 ---
-
-<img width="720" height="1080" alt="image" src="https://github.com/user-attachments/assets/20178f7e-1793-4cdf-80a2-6c42ac7ab219" />
+<img width="621" height="732" alt="Gemini_Generated_Image_dveomudveomudveo" src="https://github.com/user-attachments/assets/4ce0c795-da46-43bf-b791-8c9b661e321c" />
 
 <br>  
 This tool can be used to make it easier to delete old resources and automate the deployment of a new Virtual machine in the Cyber Range.
